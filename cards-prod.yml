@@ -1,0 +1,8 @@
+cards:
+  message: "Welcome to Cards microservice related prod APIs "
+  contactDetails:
+    name: "George Harrison - Product Owner"
+    email: "george@gmail.com"
+  onCallSupport:
+    - (617) 000-1111
+    - (936) 111-0000

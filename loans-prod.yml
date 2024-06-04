@@ -1,0 +1,8 @@
+loans:
+  message: "Welcome to Loan microservice related prod APIs "
+  contactDetails:
+    name: "Meg Cruise - Product Owner"
+    email: "meg@gmail.com"
+  onCallSupport:
+    - (723) 333-4561
+    - (156) 000-1112

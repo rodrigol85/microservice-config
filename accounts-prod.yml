@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to accounts microservice related local APIs"
+  contactDetails:
+    name: "Richard Here - Product Owner"
+    email: "richard@gmail.com"
+  onCallSupport:
+    - (39) 0000000
+    - (39) 1111111

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Loans microservices related local APIs "
+  contactDetails:
+    name: "Amaal Grega - Developer"
+    email: "amaal@gmail.com"
+  onCallSupport:
+    - (452) 111-1541
+    - (546) 000-4516

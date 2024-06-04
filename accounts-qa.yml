@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to accounts microservice related local APIs"
+  contactDetails:
+    name: "Rod Smith - QA Lead"
+    email: "smith@gmail.com"
+  onCallSupport:
+    - (39) 0000000
+    - (39) 1111111

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to microservice Cards related local APIs "
+  contactDetails:
+    name: "Brat Deep - Developer"
+    email: "brat@gmail.com"
+  onCallSupport:
+    - (412) 0000-000
+    - (915) 1111-000

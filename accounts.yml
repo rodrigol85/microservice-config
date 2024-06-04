@@ -1,0 +1,15 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to accounts microservice related local APIs"
+  contactDetails:
+    name: "Rod Doe - Developer"
+    email: "rog@gmail.com"
+  onCallSupport:
+    - (39) 0000000
+    - (39) 1111111
+
+
+      
+    

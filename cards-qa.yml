@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Cards microservice related prod APIs "
+  contactDetails:
+    name: "Ben Pitt - QA Lead"
+    email: "beni@gmail.com"
+  onCallSupport:
+    - (618) 000-1111
+    - (901) 111-0000
