@@ -5,7 +5,8 @@ accounts:
   message: "Welcome to accounts microservice related local APIs"
   contactDetails:
     name: "Richard Here - Product Owner"
-    email: "richard@gmail.com"
+    email: "{cipher}b992762765a1d84fb0b058c063b290d2f1d9d78776ef7ac9bd61190a4fd95c04cbd2f8ec16af65ddfd9d0625a47d3ebc
+"
   onCallSupport:
     - (39) 0000000
     - (39) 1111111
