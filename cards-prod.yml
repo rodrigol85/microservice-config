@@ -1,5 +1,5 @@
 cards:
-  message: "Welcome to Cards microservice related prod APIs "
+  message: "Welcome to Cards microservice related production APIs "
   contactDetails:
     name: "George Harrison - Product Owner"
     email: "george@gmail.com"
