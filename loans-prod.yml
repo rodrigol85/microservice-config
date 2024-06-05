@@ -1,5 +1,5 @@
 loans:
-  message: "Welcome to Loan microservice related prodcuntion APIs "
+  message: "Welcome to Loan microservice related prodcuntion webhook APIs "
   contactDetails:
     name: "Meg Cruise - Product Owner"
     email: "meg@gmail.com"
